@@ -1,4 +1,4 @@
-下载解压安装包Download and extract the package
+🌟下载解压安装包Download and extract the package🌟
 
 下载安装方法：下载所有的15个分文件，保存于一个新文件夹中。使用WinRAR解压。解压方法：Ctrl+A选中全部15个文件，点击鼠标右键，选择WinRAR，解压至"TextSecretConverter Setup 1.0.0\"。
 
